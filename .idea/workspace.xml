@@ -4,12 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2ba6fe98-b920-4e90-a6a3-0ab816c0d8cd" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/prac/anno/MyMoja.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    <list default="true" id="2ba6fe98-b920-4e90-a6a3-0ab816c0d8cd" name="Changes" comment="feat : 사용자 정의 애너테이션 정의 및 에러 문구 확인&#10;- interface에서 적용가능한 사용자 정의 애너테이션을 적용 &#10;- 해당 애너테이션 프로젝트 주소 : https://github.com/tmxhsk99/Annotation_Practice_magicmoja">
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/prac/anno/Moja.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/prac/anno/Member.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/prac/anno/Member.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/prac/anno/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/prac/anno/App.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/prac/anno/MyMoja.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -20,6 +20,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Class" />
+        <option value="Interface" />
       </list>
     </option>
   </component>
@@ -46,6 +47,26 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
+  <component name="RunManager">
+    <configuration name="App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.prac.anno.App" />
+      <module name="Annotation_Processor_Practice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.prac.anno.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.App" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -54,8 +75,16 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1667947583007</updated>
-      <workItem from="1668328033292" duration="200000" />
+      <workItem from="1668328033292" duration="2920000" />
     </task>
+    <task id="LOCAL-00001" summary="feat : 사용자 정의 애너테이션 정의 및 에러 문구 확인&#10;- interface에서 적용가능한 사용자 정의 애너테이션을 적용 &#10;- 해당 애너테이션 프로젝트 주소 : https://github.com/tmxhsk99/Annotation_Practice_magicmoja">
+      <created>1668328536396</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1668328536396</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -71,5 +100,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="feat : 사용자 정의 애너테이션 정의 및 에러 문구 확인&#10;- interface에서 적용가능한 사용자 정의 애너테이션을 적용 &#10;- 해당 애너테이션 프로젝트 주소 : https://github.com/tmxhsk99/Annotation_Practice_magicmoja" />
+    <option name="LAST_COMMIT_MESSAGE" value="feat : 사용자 정의 애너테이션 정의 및 에러 문구 확인&#10;- interface에서 적용가능한 사용자 정의 애너테이션을 적용 &#10;- 해당 애너테이션 프로젝트 주소 : https://github.com/tmxhsk99/Annotation_Practice_magicmoja" />
   </component>
 </project>
