@@ -1,2 +1,3 @@
-package org.prac.anno;public class Member {
+package org.prac.anno;
+public class Member {
 }
